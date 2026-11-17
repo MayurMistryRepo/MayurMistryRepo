@@ -23,22 +23,19 @@
 
 <br>
 
-<!-- TWO COLUMN LAYOUT: ABOUT & TECH STACK (MARKDOWN TABLE) -->
+<!-- TWO COLUMN LAYOUT: ABOUT & TECH STACK -->
 | 👨‍💻 About Me | 🛠️ Tech Stack |
 | :--- | :--- |
 | 🏢 Currently leading Mobile App Dev at **Technoville Consultants**.<br>📱 Architecting apps across **React Native, Flutter, Android, & iOS**.<br>🤖 Exploring the bleeding edge of **Agentic AI**.<br>🎓 Official AI development certifications from **Claude Academy**.<br>🚀 Passionate about CI/CD pipelines and smooth UI/UX. | <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /><br><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /><br><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /><br><img src="https://img.shields.io/badge/Claude_AI-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
 
 <br>
 
-<!-- FEATURED PORTFOLIO GRID -->
-<h3 align="center">🏆 Featured Mobile Apps</h3>
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" width="33%" style="border: none;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2060/2060284.png" width="45" alt="Travel" /><br>
-      <b>Flamingo Travels</b><br>
-      <i>Flutter App</i>
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="45" alt="Construction" /><br>
-      <b>Inspect Pro</b>
+<!-- COMPREHENSIVE APP LIST -->
+### 📱 Complete Project & App Portfolio
+
+#### 🦋 Flutter Development
+* [**Flamingo Travels**](https://play.google.com/store/apps/details?id=com.flamingotravels.app) - Comprehensive travel booking and management.
+* [**Flamingo Employee Hub**](https://play.google.com/store/apps/details?id=com.tvc.employee.app) - Internal enterprise management application.
+* [**PHorce PHrenzy**](https://play.google.com/store/apps/details?id=com.phorce.pickleball) - Pickleball community and sports app.
+* **FINPIT** - B2B platform connecting businesses and investors.
+* **Abbey Dosage App** - Healthcare and
