@@ -32,6 +32,8 @@
 ---
 
 ### 🛠️ Tech Stack
+
+**📱 Mobile Frameworks & UI**
 <p align="left">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
@@ -40,18 +42,43 @@
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
   <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP" />
+</p>
+
+**💻 Programming Languages**
+<p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Objective--C-3A95E3?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/xml-%2300599C.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+</p>
+
+**⚙️ Backend & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+**🎨 Design & Prototyping**
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+**🚀 CI/CD & DevOps**
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/fastlane-%2300F200.svg?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" />
   <img src="https://img.shields.io/badge/bitrise-%23683D87.svg?style=for-the-badge&logo=bitrise&logoColor=white" alt="Bitrise" />
   <img src="https://img.shields.io/badge/Shorebird-0A192F?style=for-the-badge&logo=flutter&logoColor=white" alt="Shorebird" />
+</p>
+
+**🧪 Testing Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Maestro-FF5A00?style=for-the-badge&logo=android&logoColor=white" alt="Maestro" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Appium-662299?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
 </p>
 
 ---
