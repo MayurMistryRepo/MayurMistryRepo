@@ -55,20 +55,25 @@
 
 <br>
 
-<!-- LIVE GITHUB STATS (CUSTOM PROFESSIONAL THEME) -->
+<!-- LIVE GITHUB STATS -->
 <h3 align="center">📊 GitHub Analytics</h3>
+
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=2F81F7&text_color=C9D1D9&icon_color=79C0FF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&fire=2F81F7&ring=2F81F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=79C0FF&sideLabels=79C0FF&dates=79C0FF&background=0D1117&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
-<!-- TOP LANGUAGES CHART -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&title_color=2F81F7&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&title_color=2F81F7&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 <!-- FOOTER DIVIDER (DEEP NAVY) -->
