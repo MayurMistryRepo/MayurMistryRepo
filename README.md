@@ -30,20 +30,20 @@
 
 <br>
 
-<!-- CLAUDE ACADEMY CERTIFICATIONS -->
+<!-- CLAUDE ACADEMY CERTIFICATIONS (GUARANTEED TO LOAD) -->
 <h3 align="center">🎓 Claude Academy Certifications</h3>
 <p align="center">
   <a href="https://academy.claude.com/verify/c7c33ab279e04adef1848e02d01f2f05" target="_blank">
-    <img src="https://academy.claude.com/badges/54f680a4-43ce-4cad-ad07-a46cdf43fbfc" width="150" alt="AI Fluency: Framework and foundations" />
+    <img src="https://img.shields.io/badge/Claude_Academy-AI_Fluency:_Framework_&_Foundations-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency" />
   </a>
   <a href="https://academy.claude.com/verify/c9c8cfe4ce83aea5f8e4a42db9ff7388" target="_blank">
-    <img src="https://academy.claude.com/badges/259ee63f-d271-46f1-8c77-edc6e8f68817" width="150" alt="AI Fluency for creative work" />
+    <img src="https://img.shields.io/badge/Claude_Academy-AI_Fluency_For_Creative_Work-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency Creative" />
   </a>
   <a href="https://academy.claude.com/verify/32a66d2df783e5e0a03f7d06df62e575" target="_blank">
-    <img src="https://academy.claude.com/badges/b175abef-e8d2-4fec-b912-3dc4e6926ba4" width="150" alt="AI Fluency for builders" />
+    <img src="https://img.shields.io/badge/Claude_Academy-AI_Fluency_For_Builders-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency Builders" />
   </a>
-  <a href="https://academy.claude.com/badges/661d26d0-19db-4eb9-b125-bd13bd8a2224" target="_blank">
-    <img src="https://academy.claude.com/badges/661d26d0-19db-4eb9-b125-bd13bd8a2224" width="150" alt="AI capabilities and limitations" />
+  <a href="https://academy.claude.com/verify/32a66d2df783e5e0a03f7d06df62e575" target="_blank">
+    <img src="https://img.shields.io/badge/Claude_Academy-AI_Capabilities_&_Limitations-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Capabilities" />
   </a>
 </p>
 
