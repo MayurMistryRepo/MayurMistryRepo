@@ -61,14 +61,25 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-**🎨 Design & Prototyping**
+**🎨 Design, Wireframing & Prototyping**
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro" />
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io" />
+</p>
+
+**🗄️ Version Control**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0080D6?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
 </p>
 
 **🚀 CI/CD & DevOps**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/fastlane-%2300F200.svg?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" />
   <img src="https://img.shields.io/badge/bitrise-%23683D87.svg?style=for-the-badge&logo=bitrise&logoColor=white" alt="Bitrise" />
   <img src="https://img.shields.io/badge/Shorebird-0A192F?style=for-the-badge&logo=flutter&logoColor=white" alt="Shorebird" />
@@ -79,6 +90,14 @@
   <img src="https://img.shields.io/badge/Maestro-FF5A00?style=for-the-badge&logo=android&logoColor=white" alt="Maestro" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Appium-662299?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+</p>
+
+**🤝 Collaboration & Management**
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
 </p>
 
 ---
