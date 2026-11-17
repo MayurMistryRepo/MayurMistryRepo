@@ -84,6 +84,51 @@
   </tr>
 </table>
 
+<br>
+
+<!-- COMPREHENSIVE APP LIST -->
+<table align="center" style="border-collapse: collapse; border: none; background: transparent; width: 90%;">
+  <tr style="border: none;">
+    <!-- LIVE APPS WITH URLS -->
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+      <h3>🔗 Live on App Stores</h3>
+      <ul style="font-size: 14px;">
+        <li><a href="https://play.google.com/store/apps/details?id=com.flamingotravels.app" target="_blank"><b>Flamingo Travels</b></a> (Flutter)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.tvc.employee.app" target="_blank"><b>Flamingo Employee Hub</b></a> (Flutter)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.phorce.pickleball" target="_blank"><b>PHorce PHrenzy</b></a> (Flutter)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.inspectpro.tvc" target="_blank"><b>Inspect Pro By S.V. Shah</b></a> (React Native)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.intro.datingapp" target="_blank"><b>Intro - Queer Desi Dating</b></a> (Android/iOS)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.dearcow" target="_blank"><b>DEARCOWS</b></a> (React Native)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.Nehjez" target="_blank"><b>NEHEZ</b></a> (React Native)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.badgeapp" target="_blank"><b>CLICKSCAPE</b></a> (React Native)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.lugelo.mobile" target="_blank"><b>LUGELO</b></a> (React Native)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.ordaraty" target="_blank"><b>ORDARATY</b></a> (React Native)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.jawaharsouq" target="_blank"><b>JawaharSouq</b></a> (React Native)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.learn3dapp" target="_blank"><b>Learn3D</b></a> (React Native)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.mgk.sketchpaint" target="_blank"><b>SketchPaint</b></a> (React Native)</li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.apps.coboma" target="_blank"><b>COBOMA</b></a> (Android)</li>
+      </ul>
+    </td>
+    
+    <!-- ENTERPRISE / PRIVATE APPS -->
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+      <h3>🔒 Enterprise & Custom Deployments</h3>
+      <ul style="font-size: 14px;">
+        <li><b>FINPIT</b> - B2B Business & Investor Connection</li>
+        <li><b>Merra App</b> - Payroll Management System</li>
+        <li><b>Abbey Dosage App</b> - Healthcare Utility</li>
+        <li><b>FASTAPP By Fitlab</b> - Fitness Platform (Flutter)</li>
+        <li><b>BEEBACARS</b> - React Native Application</li>
+        <li><b>LIQUORLY</b> - React Native Application</li>
+        <li><b>USABMX</b> - React Native Application</li>
+        <li><b>Hack-A-Pro</b> - Android Native App</li>
+        <li><b>GREEN GROSS SYSTEM</b> - Android Native App</li>
+        <li><b>MEDIZINE</b> - Android Native App</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <br><br>
 
 <!-- LIVE GITHUB STATS (CUSTOM PROFESSIONAL THEME) -->
