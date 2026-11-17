@@ -30,20 +30,23 @@
 
 <br>
 
-<!-- CLAUDE ACADEMY CERTIFICATIONS (GUARANTEED TO LOAD) -->
+<!-- CLAUDE ACADEMY CERTIFICATIONS -->
 <h3 align="center">🎓 Claude Academy Certifications</h3>
 <p align="center">
   <a href="https://academy.claude.com/verify/c7c33ab279e04adef1848e02d01f2f05" target="_blank">
-    <img src="https://img.shields.io/badge/Claude_Academy-AI_Fluency:_Framework_&_Foundations-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency" />
+    <img src="https://img.shields.io/badge/Claude%20Academy-AI%20Fluency%3A%20Framework%20and%20foundations-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency: Framework and foundations" />
   </a>
+  <br><br>
   <a href="https://academy.claude.com/verify/c9c8cfe4ce83aea5f8e4a42db9ff7388" target="_blank">
-    <img src="https://img.shields.io/badge/Claude_Academy-AI_Fluency_For_Creative_Work-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency Creative" />
+    <img src="https://img.shields.io/badge/Claude%20Academy-AI%20Fluency%20for%20creative%20work-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency for creative work" />
   </a>
+  <br><br>
   <a href="https://academy.claude.com/verify/32a66d2df783e5e0a03f7d06df62e575" target="_blank">
-    <img src="https://img.shields.io/badge/Claude_Academy-AI_Fluency_For_Builders-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency Builders" />
+    <img src="https://img.shields.io/badge/Claude%20Academy-AI%20Fluency%20for%20builders-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency for builders" />
   </a>
+  <br><br>
   <a href="https://academy.claude.com/verify/32a66d2df783e5e0a03f7d06df62e575" target="_blank">
-    <img src="https://img.shields.io/badge/Claude_Academy-AI_Capabilities_&_Limitations-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Capabilities" />
+    <img src="https://img.shields.io/badge/Claude%20Academy-AI%20capabilities%20and%20limitations-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI capabilities and limitations" />
   </a>
 </p>
 
