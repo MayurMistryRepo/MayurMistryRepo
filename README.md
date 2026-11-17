@@ -30,12 +30,32 @@
 
 <br>
 
-<!-- COMPREHENSIVE APP LIST -->
-### 📱 Complete Project & App Portfolio
+<!-- BULLETPROOF COMPREHENSIVE APP LIST (NATIVE MARKDOWN TABLE) -->
+### 📱 Complete App Portfolio
 
-#### 🦋 Flutter Development
-* [**Flamingo Travels**](https://play.google.com/store/apps/details?id=com.flamingotravels.app) - Comprehensive travel booking and management.
-* [**Flamingo Employee Hub**](https://play.google.com/store/apps/details?id=com.tvc.employee.app) - Internal enterprise management application.
-* [**PHorce PHrenzy**](https://play.google.com/store/apps/details?id=com.phorce.pickleball) - Pickleball community and sports app.
-* **FINPIT** - B2B platform connecting businesses and investors.
-* **Abbey Dosage App** - Healthcare and
+| 🔗 Live on App Stores | 🔒 Enterprise & Custom Deployments |
+| :--- | :--- |
+| ✈️ [**Flamingo Travels**](https://play.google.com/store/apps/details?id=com.flamingotravels.app) (Flutter)<br>💼 [**Flamingo Employee Hub**](https://play.google.com/store/apps/details?id=com.tvc.employee.app) (Flutter)<br>🎾 [**PHorce PHrenzy**](https://play.google.com/store/apps/details?id=com.phorce.pickleball) (Flutter)<br>🏗️ [**Inspect Pro By S.V. Shah**](https://play.google.com/store/apps/details?id=com.inspectpro.tvc) (React Native)<br>🌈 [**Intro - Queer Desi Dating**](https://play.google.com/store/apps/details?id=com.intro.datingapp) (Android/iOS)<br>🐄 [**DEARCOWS**](https://play.google.com/store/apps/details?id=com.dearcow) (React Native)<br>🛒 [**NEHEZ**](https://play.google.com/store/apps/details?id=com.Nehjez) (React Native)<br>📛 [**CLICKSCAPE**](https://play.google.com/store/apps/details?id=com.badgeapp) (React Native)<br>📦 [**LUGELO**](https://play.google.com/store/apps/details?id=com.lugelo.mobile) (React Native)<br>🛍️ [**ORDARATY**](https://play.google.com/store/apps/details?id=com.ordaraty) (React Native)<br>💎 [**JawaharSouq**](https://play.google.com/store/apps/details?id=com.jawaharsouq) (React Native)<br>🎓 [**Learn3D**](https://play.google.com/store/apps/details?id=com.learn3dapp) (React Native)<br>🎨 [**SketchPaint**](https://play.google.com/store/apps/details?id=com.mgk.sketchpaint) (React Native)<br>📊 [**COBOMA**](https://play.google.com/store/apps/details?id=com.apps.coboma) (Android) | 🏢 **FINPIT** - Connect businesses and investors<br>💰 **Merra App** - Payroll Management System<br>💊 **Abbey Dosage App** - Apps on Google Play<br>🏃 **FASTAPP** By Fitlab (Flutter)<br>🚗 **BEEBACARS** - React Native<br>🥂 **LIQUORLY** - React Native<br>🚲 **USABMX** - React Native<br>💻 **Hack-A-Pro** - Android Native<br>🌱 **GREEN GROSS SYSTEM** - Android Native<br>⚕️ **MEDIZINE** - Android Native |
+
+<br>
+
+<!-- LIVE GITHUB STATS (CUSTOM PROFESSIONAL THEME) -->
+<h3 align="center">📊 GitHub Analytics</h3>
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=2F81F7&text_color=C9D1D9&icon_color=79C0FF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&fire=2F81F7&ring=2F81F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=79C0FF&sideLabels=79C0FF&dates=79C0FF&background=0D1117&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- TOP LANGUAGES CHART -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&title_color=2F81F7&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- FOOTER DIVIDER (DEEP NAVY) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer" alt="Footer" />
+</div>
