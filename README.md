@@ -1,24 +1,24 @@
-<!-- HERO BANNER -->
+<!-- HERO BANNER (DEEP NAVY) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mayur%20Mistry&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Lead%20Mobile%20Application%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=250&section=header&text=Mayur%20Mistry&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Lead%20Mobile%20Application%20Developer&descAlignY=55&descAlign=50&fontColor=FFFFFF" alt="Header" />
 </div>
 
-<!-- ANIMATED TYPING TEXT -->
+<!-- ANIMATED TYPING TEXT (PROFESSIONAL BLUE) -->
 <h2 align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=50&lines=Lead+Mobile+App+Developer;React+Native+%7C+Flutter+%7C+Android;Agentic+AI+Enthusiast;Building+Next-Gen+Mobile+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=50&lines=Lead+Mobile+App+Developer;React+Native+%7C+Flutter+%7C+Android;Agentic+AI+Enthusiast;Building+Next-Gen+Mobile+Experiences" alt="Typing SVG" />
   </a>
 </h2>
 
 <!-- SOCIALS & VIEWS COUNTER -->
 <p align="center">
   <a href="https://linkedin.com/in/mayur-mistry-724b92114" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mayurgmistry092@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00B4D8&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <br>
@@ -86,23 +86,23 @@
 
 <br><br>
 
-<!-- LIVE GITHUB STATS (TOKYO NIGHT THEME) -->
+<!-- LIVE GITHUB STATS (CUSTOM PROFESSIONAL THEME) -->
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=2F81F7&text_color=C9D1D9&icon_color=79C0FF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&fire=2F81F7&ring=2F81F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=79C0FF&sideLabels=79C0FF&dates=79C0FF&background=0D1117&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <!-- TOP LANGUAGES CHART -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&title_color=2F81F7&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- FOOTER DIVIDER -->
+<!-- FOOTER DIVIDER (DEEP NAVY) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer" alt="Footer" />
 </div>
