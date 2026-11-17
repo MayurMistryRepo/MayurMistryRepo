@@ -1,6 +1,6 @@
 <!-- HERO BANNER (DEEP NAVY) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=250&section=header&text=Mayur%20Mistry&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Lead%20Mobile%20Application%20Developer&descAlignY=55&descAlign=50&fontColor=FFFFFF" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=250&section=header&text=Mayur%20Mistry&fontSize=80&animation=fadeIn&fontAlignY=50&fontColor=FFFFFF" alt="Header" />
 </div>
 
 <!-- ANIMATED TYPING TEXT (PROFESSIONAL BLUE) -->
